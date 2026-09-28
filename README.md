@@ -4,7 +4,7 @@
 
 **無限進步！** 从模块化应用与云原生，到 AI 工作流与开发者工具。
 
-Shanghai · <img src="./assets/tech/java.svg" width="20" height="20" alt=""> Java · <img src="./assets/tech/go.svg" width="27" height="20" alt=""> Go · <img src="./assets/tech/python.svg" width="20" height="20" alt=""> Python · <img src="./assets/tech/swift.svg" width="20" height="20" alt=""> Swift
+<img src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img src="./assets/tech/java.svg" width="22" height="22" alt=""> Java · <img src="./assets/tech/go.svg" width="22" height="22" alt=""> Go · <img src="./assets/tech/python.svg" width="22" height="22" alt=""> Python · <img src="./assets/tech/swift.svg" width="22" height="22" alt=""> Swift
 
 </div>
 
