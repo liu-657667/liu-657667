@@ -1,20 +1,20 @@
 <div align="center">
 
-# Hi, I'm Liqi 👋
+# Hi, I'm Liqi <img src="./assets/icons/sparkles.svg" width="26" height="26" alt="">
 
 **無限進步！** 从模块化应用与云原生，到 AI 工作流与开发者工具。
 
-📍 Shanghai　·　☕ Java　·　🐹 Go　·　🐍 Python　·　🍎 Swift
+Shanghai · <img src="./assets/tech/java.svg" width="20" height="20" alt=""> Java · <img src="./assets/tech/go.svg" width="27" height="20" alt=""> Go · <img src="./assets/tech/python.svg" width="20" height="20" alt=""> Python · <img src="./assets/tech/swift.svg" width="20" height="20" alt=""> Swift
 
 </div>
 
 ---
 
-### 🧭 我在做什么
+### <img src="./assets/icons/compass.svg" width="20" height="20" alt=""> 我在做什么
 
 我喜欢把复杂的开发和运维问题拆成可以验证的小步骤。过去参与模块化应用、Kubernetes 控制器与命令行工具的开源协作；现在也在探索 Spring AI、MCP、浏览器自动化和原生 macOS 产品。
 
-### 🧩 开源贡献
+### <img src="./assets/icons/git-pull-request.svg" width="20" height="20" alt=""> 开源贡献
 
 | 项目 | 我提交过的工作 |
 | :--- | :--- |
@@ -25,17 +25,17 @@
 
 [查看我的 GitHub PR 记录 →](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
 
-### 🚀 正在构建
+### <img src="./assets/icons/rocket.svg" width="20" height="20" alt=""> 正在构建
 
-- **[MacSoul](https://github.com/liu-657667/macsoul)** 🍎 — SwiftUI macOS 开发者伴侣，探索如何清晰呈现系统、开发环境与 AI Coding 信息。项目仍在开发中，当前运行版本使用 Mock 数据。
-- **[modao-prototype-inspector](https://github.com/liu-657667/modao-prototype-inspector)** 🔎 — 一个 Python / Codex skill：从墨刀分享链接扫描页面树，保存结构化视觉证据。
+- <img src="./assets/icons/app-window.svg" width="17" height="17" alt=""> **[MacSoul](https://github.com/liu-657667/macsoul)** — SwiftUI macOS 开发者伴侣，探索如何清晰呈现系统、开发环境与 AI Coding 信息。项目仍在开发中，当前运行版本使用 Mock 数据。
+- <img src="./assets/icons/scan-search.svg" width="17" height="17" alt=""> **[modao-prototype-inspector](https://github.com/liu-657667/modao-prototype-inspector)** — 一个 Python / Codex skill：从墨刀分享链接扫描页面树，保存结构化视觉证据。
 
-### 🧰 技术方向
+### <img src="./assets/icons/layers.svg" width="20" height="20" alt=""> 技术方向
 
 `Java / Spring` · `Go / CLI` · `Kubernetes / 模块化应用` · `Spring AI / MCP` · `Python / 自动化` · `SwiftUI / macOS`
 
 <details>
-<summary>🪄 一条我喜欢的开发原则</summary>
+<summary>一条我喜欢的开发原则</summary>
 
 > 先把问题看清楚，再写一个可以验证的小版本；每次都比上次前进一点点。
 
