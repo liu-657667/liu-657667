@@ -4,7 +4,7 @@
 
 **無限進步！** 从模块化应用与云原生，到 AI 工作流与开发者工具。
 
-<img src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img src="./assets/tech/java-badge.svg" width="22" height="22" alt=""> Java · <img src="./assets/tech/go-badge.svg" width="22" height="22" alt=""> Go · <img src="./assets/tech/python-badge.svg" width="22" height="22" alt=""> Python · <img src="./assets/tech/swift-badge.svg" width="22" height="22" alt=""> Swift
+<img src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img src="./assets/tech/java-badge.svg" width="22" height="22" alt=""> Java · <img src="./assets/tech/go-badge.svg" width="22" height="22" alt=""> Go · <img src="./assets/tech/python-badge.svg" width="22" height="22" alt=""> Python
 
 </div>
 
@@ -27,12 +27,12 @@
 
 ### <img src="./assets/icons/rocket.svg" width="20" height="20" alt=""> 正在构建
 
-- <img src="./assets/icons/app-window.svg" width="17" height="17" alt=""> **[MacSoul](https://github.com/liu-657667/macsoul)** — SwiftUI macOS 开发者伴侣，探索如何清晰呈现系统、开发环境与 AI Coding 信息。项目仍在开发中，当前运行版本使用 Mock 数据。
+- <img src="./assets/icons/app-window.svg" width="17" height="17" alt=""> **[MacSoul](https://github.com/liu-657667/macsoul)** — 我主要借助 AI 编程构建的 SwiftUI macOS 原型，探索系统、开发环境与 AI Coding 信息的呈现。当前使用 Mock 数据，SwiftUI 仍在学习中。
 - <img src="./assets/icons/scan-search.svg" width="17" height="17" alt=""> **[modao-prototype-inspector](https://github.com/liu-657667/modao-prototype-inspector)** — 一个 Python / Codex skill：从墨刀分享链接扫描页面树，保存结构化视觉证据。
 
 ### <img src="./assets/icons/layers.svg" width="20" height="20" alt=""> 技术方向
 
-`Java / Spring` · `Go / CLI` · `Kubernetes / 模块化应用` · `Spring AI / MCP` · `Python / 自动化` · `SwiftUI / macOS`
+`Java / Spring` · `Go / CLI` · `Kubernetes / 模块化应用` · `Spring AI / MCP` · `Python / 自动化`
 
 <details>
 <summary>一条我喜欢的开发原则</summary>
