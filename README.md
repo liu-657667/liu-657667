@@ -14,6 +14,14 @@
 
 我喜欢把复杂的开发和运维问题拆成可以验证的小步骤。过去参与模块化应用、Kubernetes 控制器与命令行工具的开源协作；现在也在探索 Spring AI、MCP、浏览器自动化和原生 macOS 产品。
 
+### <img src="./assets/icons/rocket.svg" width="20" height="20" alt=""> 项目与发布
+
+- <img src="./assets/icons/app-window.svg" width="17" height="17" alt=""> **[MacSoul](https://github.com/liu-657667/macsoul)** — 一个有点嘴欠的 macOS 开发者伴侣，在主窗口和菜单栏集中展示系统状态、网络线索、开发环境与 Codex 配额。**[v0.1.0 开发者预览已发布 · 下载与安装 →](https://github.com/liu-657667/macsoul/releases/tag/v0.1.0)**
+
+  提供 macOS 13+ Universal DMG / ZIP，默认模拟模式，可切换实时系统。主要借助 AI 编程构建，SwiftUI 仍在学习中；此预览版未签名、未公证，安装说明与兼容范围见发布页。
+
+- <img src="./assets/icons/scan-search.svg" width="17" height="17" alt=""> **[modao-prototype-inspector](https://github.com/liu-657667/modao-prototype-inspector)** — 一个 Python / Codex skill：从墨刀分享链接扫描页面树，保存结构化视觉证据。
+
 ### <img src="./assets/icons/git-pull-request.svg" width="20" height="20" alt=""> 开源贡献
 
 | 项目 | 我提交过的工作 |
@@ -24,11 +32,6 @@
 | [DingTalk OpenClaw Connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) | 提交过 Windows 兼容性 [#662](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector/issues/662) 和群聊重复回复 [#669](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector/issues/669) 的问题报告。 |
 
 [查看我的 GitHub PR 记录 →](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
-
-### <img src="./assets/icons/rocket.svg" width="20" height="20" alt=""> 正在构建
-
-- <img src="./assets/icons/app-window.svg" width="17" height="17" alt=""> **[MacSoul](https://github.com/liu-657667/macsoul)** — 我主要借助 AI 编程构建的 SwiftUI macOS 原型，探索系统、开发环境与 AI Coding 信息的呈现。当前使用 Mock 数据，SwiftUI 仍在学习中。
-- <img src="./assets/icons/scan-search.svg" width="17" height="17" alt=""> **[modao-prototype-inspector](https://github.com/liu-657667/modao-prototype-inspector)** — 一个 Python / Codex skill：从墨刀分享链接扫描页面树，保存结构化视觉证据。
 
 ### <img src="./assets/icons/layers.svg" width="20" height="20" alt=""> 技术方向
 
