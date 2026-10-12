@@ -6,6 +6,8 @@
 
 <img src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img src="./assets/tech/java-badge.svg" width="22" height="22" alt=""> Java · <img src="./assets/tech/go-badge.svg" width="22" height="22" alt=""> Go · <img src="./assets/tech/python-badge.svg" width="22" height="22" alt=""> Python
 
+<img src="./assets/icons/compass.svg" width="20" height="20" alt=""> **[访问我的个人网站 →](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/)**
+
 </div>
 
 ---
@@ -50,6 +52,6 @@
 
 **欢迎一起交流开发工具、AI 工作流与开源项目。**
 
-[浏览仓库](https://github.com/liu-657667?tab=repositories) · [查看贡献](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
+[个人网站](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/) · [浏览仓库](https://github.com/liu-657667?tab=repositories) · [查看贡献](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
 
 </div>
