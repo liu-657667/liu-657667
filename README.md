@@ -1,30 +1,30 @@
 <div align="center">
 
-# Hi, I'm Liqi <img src="./assets/icons/sparkles.svg" width="26" height="26" alt="">
+# Hi, I'm Liqi <img align="absmiddle" src="./assets/icons/sparkles.svg" width="26" height="26" alt="">
 
 **無限進步！** 从模块化应用与云原生，到 AI 工作流与开发者工具。
 
-<img src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img src="./assets/tech/java-badge.svg" width="22" height="22" alt=""> Java · <img src="./assets/tech/go-badge.svg" width="22" height="22" alt=""> Go · <img src="./assets/tech/python-badge.svg" width="22" height="22" alt=""> Python
+<img align="absmiddle" src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img align="absmiddle" src="./assets/tech/java-badge.svg" width="22" height="22" alt=""> Java · <img align="absmiddle" src="./assets/tech/go-badge.svg" width="22" height="22" alt=""> Go · <img align="absmiddle" src="./assets/tech/python-badge.svg" width="22" height="22" alt=""> Python
 
-<img src="./assets/icons/compass.svg" width="20" height="20" alt=""> **[访问我的个人网站 →](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/)**
+<img align="absmiddle" src="./assets/icons/compass.svg" width="20" height="20" alt=""> **[访问我的个人网站 →](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/)**
 
 </div>
 
 ---
 
-### <img src="./assets/icons/compass.svg" width="20" height="20" alt=""> 我在做什么
+### <img align="absmiddle" src="./assets/icons/compass.svg" width="20" height="20" alt=""> 我在做什么
 
 我喜欢把复杂的开发和运维问题拆成可以验证的小步骤。过去参与模块化应用、Kubernetes 控制器与命令行工具的开源协作；现在也在探索 Spring AI、MCP、浏览器自动化和原生 macOS 产品。
 
-### <img src="./assets/icons/rocket.svg" width="20" height="20" alt=""> 项目与发布
+### <img align="absmiddle" src="./assets/icons/rocket.svg" width="20" height="20" alt=""> 项目与发布
 
-- <img src="./assets/icons/app-window.svg" width="17" height="17" alt=""> **[MacSoul](https://github.com/liu-657667/macsoul)** — 一个有点嘴欠的 macOS 开发者伴侣，在主窗口和菜单栏集中展示系统状态、网络线索、开发环境与 Codex 配额。**[v0.1.0 开发者预览已发布 · 下载与安装 →](https://github.com/liu-657667/macsoul/releases/tag/v0.1.0)**
+- <img align="absmiddle" src="./assets/icons/app-window.svg" width="17" height="17" alt=""> **[MacSoul](https://github.com/liu-657667/macsoul)** — 一个有点嘴欠的 macOS 开发者伴侣，在主窗口和菜单栏集中展示系统状态、网络线索、开发环境与 Codex 配额。**[v0.1.0 开发者预览已发布 · 下载与安装 →](https://github.com/liu-657667/macsoul/releases/tag/v0.1.0)**
 
   提供 macOS 13+ Universal DMG / ZIP，默认模拟模式，可切换实时系统。主要借助 AI 编程构建，SwiftUI 仍在学习中；此预览版未签名、未公证，安装说明与兼容范围见发布页。
 
-- <img src="./assets/icons/scan-search.svg" width="17" height="17" alt=""> **[modao-prototype-inspector](https://github.com/liu-657667/modao-prototype-inspector)** — 一个 Python / Codex skill：从墨刀分享链接扫描页面树，保存结构化视觉证据。
+- <img align="absmiddle" src="./assets/icons/scan-search.svg" width="17" height="17" alt=""> **[modao-prototype-inspector](https://github.com/liu-657667/modao-prototype-inspector)** — 一个 Python / Codex skill：从墨刀分享链接扫描页面树，保存结构化视觉证据。
 
-### <img src="./assets/icons/git-pull-request.svg" width="20" height="20" alt=""> 开源贡献
+### <img align="absmiddle" src="./assets/icons/git-pull-request.svg" width="20" height="20" alt=""> 开源贡献
 
 | 项目 | 我提交过的工作 |
 | :--- | :--- |
@@ -35,7 +35,7 @@
 
 [查看我的 GitHub PR 记录 →](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
 
-### <img src="./assets/icons/layers.svg" width="20" height="20" alt=""> 技术方向
+### <img align="absmiddle" src="./assets/icons/layers.svg" width="20" height="20" alt=""> 技术方向
 
 `Java / Spring` · `Go / CLI` · `Kubernetes / 模块化应用` · `Spring AI / MCP` · `Python / 自动化`
 
