@@ -42,10 +42,10 @@ A selection of my merged contributions. Each link leads to the actual changes.
 
 | Project | My contributions |
 | :--- | :--- |
+| [OpenClaw](https://github.com/openclaw/openclaw) | Fixed parsing of the documented `/think extra high` thinking-level alias and added regression tests [#197085](https://github.com/openclaw/openclaw/pull/197085). |
 | [SOFAStack / SOFA Serverless](https://github.com/sofastack/sofa-serverless) | Go / Kubernetes module controllers: module deployment behavior [#118](https://github.com/sofastack/sofa-serverless/pull/118), per-Pod module instance statistics [#208](https://github.com/sofastack/sofa-serverless/pull/208), idempotency in grouped rollouts [#406](https://github.com/sofastack/sofa-serverless/pull/406), and CI and test improvements. The upstream repository is archived. |
 | [Koupleless / arkctl](https://github.com/koupleless/arkctl) | Go CLI error messages [#1](https://github.com/koupleless/arkctl/pull/1) and default help output [#6](https://github.com/koupleless/arkctl/pull/6), plus a CI fix in [Koupleless](https://github.com/koupleless/koupleless/pull/61). |
 | [Spring AI Summary](https://github.com/java-ai-tech/spring-ai-summary) | Java / Spring AI: invocation observability [#28](https://github.com/java-ai-tech/spring-ai-summary/pull/28), Nacos MCP client and server examples [#32](https://github.com/java-ai-tech/spring-ai-summary/pull/32), and an evaluator–optimizer workflow [#34](https://github.com/java-ai-tech/spring-ai-summary/pull/34). |
-| [OpenClaw](https://github.com/openclaw/openclaw) | Fixed parsing of the documented `/think extra high` thinking-level alias and added regression tests [#197085](https://github.com/openclaw/openclaw/pull/197085). |
 
 I also contribute issue reports with reproduction steps, logs, and source references:
 
