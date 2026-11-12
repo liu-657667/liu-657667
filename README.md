@@ -42,10 +42,10 @@
 
 | 项目 | 我参与的改进 |
 | :--- | :--- |
+| [OpenClaw](https://github.com/openclaw/openclaw) | 修复 `/think extra high` 思考级别别名解析，并补充回归测试 [#197085](https://github.com/openclaw/openclaw/pull/197085)。 |
 | [SOFAStack / SOFA Serverless](https://github.com/sofastack/sofa-serverless) | Go / Kubernetes 模块控制器：模块部署行为 [#118](https://github.com/sofastack/sofa-serverless/pull/118)、Pod 模块实例统计 [#208](https://github.com/sofastack/sofa-serverless/pull/208)、分组发布幂等处理 [#406](https://github.com/sofastack/sofa-serverless/pull/406)，以及 CI 与测试改进。上游仓库已归档。 |
 | [Koupleless / arkctl](https://github.com/koupleless/arkctl) | Go CLI 的错误提示 [#1](https://github.com/koupleless/arkctl/pull/1) 与默认帮助输出 [#6](https://github.com/koupleless/arkctl/pull/6)；另向 [Koupleless](https://github.com/koupleless/koupleless/pull/61) 提交了 CI 修复。 |
 | [Spring AI Summary](https://github.com/java-ai-tech/spring-ai-summary) | Java / Spring AI：调用可观测性 [#28](https://github.com/java-ai-tech/spring-ai-summary/pull/28)、Nacos MCP 客户端与服务端示例 [#32](https://github.com/java-ai-tech/spring-ai-summary/pull/32)、评估器—优化器工作流 [#34](https://github.com/java-ai-tech/spring-ai-summary/pull/34)。 |
-| [OpenClaw](https://github.com/openclaw/openclaw) | 修复 `/think extra high` 思考级别别名解析，并补充回归测试 [#197085](https://github.com/openclaw/openclaw/pull/197085)。 |
 
 我也通过复现步骤、日志与源码线索提交问题报告：
 
