@@ -8,7 +8,7 @@
 
 <img align="absmiddle" src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img align="absmiddle" src="./assets/tech/java-badge.svg" width="22" height="22" alt=""> Java · <img align="absmiddle" src="./assets/tech/go-badge.svg" width="22" height="22" alt=""> Go · <img align="absmiddle" src="./assets/tech/python-badge.svg" width="22" height="22" alt=""> Python
 
-<img align="absmiddle" src="./assets/icons/compass.svg" width="20" height="20" alt=""> **[Personal website →](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/)** · [Open source contributions](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
+<img align="absmiddle" src="./assets/icons/compass.svg" width="20" height="20" alt=""> **[Personal website →](https://liu-657667.github.io/)** · [Open source contributions](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
 
 </div>
 
@@ -71,6 +71,6 @@ I also contribute issue reports with reproduction steps, logs, and source refere
 
 **Happy to connect over developer tools, AI workflows, and open source.**
 
-[Personal website](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/) · [Repositories](https://github.com/liu-657667?tab=repositories) · [简体中文](./README.md)
+[Personal website](https://liu-657667.github.io/) · [Repositories](https://github.com/liu-657667?tab=repositories) · [简体中文](./README.md)
 
 </div>
