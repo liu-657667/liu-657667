@@ -8,7 +8,7 @@
 
 <img align="absmiddle" src="./assets/icons/map-pin.svg" width="20" height="20" alt=""> Shanghai · <img align="absmiddle" src="./assets/tech/java-badge.svg" width="22" height="22" alt=""> Java · <img align="absmiddle" src="./assets/tech/go-badge.svg" width="22" height="22" alt=""> Go · <img align="absmiddle" src="./assets/tech/python-badge.svg" width="22" height="22" alt=""> Python
 
-<img align="absmiddle" src="./assets/icons/compass.svg" width="20" height="20" alt=""> **[个人网站 →](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/)** · [开源贡献](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
+<img align="absmiddle" src="./assets/icons/compass.svg" width="20" height="20" alt=""> **[个人网站 →](https://liu-657667.github.io/)** · [开源贡献](https://github.com/pulls?q=is%3Apr+author%3Aliu-657667)
 
 </div>
 
@@ -71,6 +71,6 @@
 
 **欢迎交流开发工具、AI 工作流与开源项目。**
 
-[个人网站](https://liqi-liu-portfolio.wintrybow32.chatgpt.site/) · [浏览仓库](https://github.com/liu-657667?tab=repositories) · [English](./README.en.md)
+[个人网站](https://liu-657667.github.io/) · [浏览仓库](https://github.com/liu-657667?tab=repositories) · [English](./README.en.md)
 
 </div>
