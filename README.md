@@ -43,6 +43,7 @@
 | 项目 | 我参与的改进 |
 | :--- | :--- |
 | [OpenClaw](https://github.com/openclaw/openclaw) | 修复 `/think extra high` 思考级别别名解析，并补充回归测试 [#197085](https://github.com/openclaw/openclaw/pull/197085)。<br>让 Agent 工具支持 Workboard 短卡片 ID，并通过索引查找避免扫描整块看板 [#206263](https://github.com/openclaw/openclaw/pull/206263)（已合并）。 |
+| [AgentScope Java](https://github.com/agentscope-ai/agentscope-java) | 修复沙箱关闭后每日记忆无法归档的问题，保留按用户隔离，并补充回归测试 [#4261](https://github.com/agentscope-ai/agentscope-java/pull/4261)（已合并）。 |
 | [紫微斗数 / ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 修复开源 Demo 的重复时间导航与长解读面板滚动，并补充布局回归测试 [#91](https://github.com/Renhuai123/ziwei-doushu/pull/91)。 |
 | [SOFAStack / SOFA Serverless](https://github.com/sofastack/sofa-serverless) | Go / Kubernetes 模块控制器：模块部署行为 [#118](https://github.com/sofastack/sofa-serverless/pull/118)、Pod 模块实例统计 [#208](https://github.com/sofastack/sofa-serverless/pull/208)、分组发布幂等处理 [#406](https://github.com/sofastack/sofa-serverless/pull/406)，以及 CI 与测试改进。上游仓库已归档。 |
 | [Koupleless / arkctl](https://github.com/koupleless/arkctl) | Go CLI 的错误提示 [#1](https://github.com/koupleless/arkctl/pull/1) 与默认帮助输出 [#6](https://github.com/koupleless/arkctl/pull/6)；另向 [Koupleless](https://github.com/koupleless/koupleless/pull/61) 提交了 CI 修复。 |
